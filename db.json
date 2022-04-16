@@ -1,0 +1,46 @@
+{
+  "cities": [
+    {
+      "city": "iran",
+      "country": "2300",
+      "population": "europ",
+      "id": 2
+    },
+    {
+      "city": "Bangluru",
+      "country": "32000",
+      "population": "India",
+      "id": 3
+    }
+  ],
+  "country": [
+    {
+      "country": "Bangluru",
+      "id": 1
+    },
+    {
+      "country": "Rajisthan",
+      "id": 2
+    },
+    {
+      "country": "Irak",
+      "id": 3
+    },
+    {
+      "country": "NewDelhi",
+      "id": 4
+    },
+    {
+      "country": "USA",
+      "id": 5
+    },
+    {
+      "country": "Usa",
+      "id": 6
+    },
+    {
+      "country": "Indai",
+      "id": 7
+    }
+  ]
+}
